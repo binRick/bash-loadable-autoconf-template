@@ -13,9 +13,8 @@
 #include "builtins.h"
 #include "shell.h"
 
-#include "utils.h"
-
 #include "bashgetopt.h"
+#include "utils.h"
 
 #include "common.h"
 
