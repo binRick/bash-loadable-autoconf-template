@@ -21,7 +21,6 @@
 #include "common.h"
 
 #include "utils.h"
-#include "utils.c"
 
 #include "log.h"
 #include "log.c"
