@@ -14,13 +14,10 @@
 #include "shell.h"
 
 #include "utils.h"
-#include "utils.c"
 
 #include "bashgetopt.h"
 
 #include "common.h"
-
-#include "utils.h"
 
 #include "log.h"
 #include "log.c"
